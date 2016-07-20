@@ -1,5 +1,6 @@
-This is Apple mobile app, SWIFT
-It's allow you to record your voice and them play it with different effects
+This is Apple mobile app, SWIFT.
 
-![Alt text](/1.png?raw=true)
-![Alt text](/2.png?raw=true)
+It's allow you to record your voice and play it with different effects.
+
+![Alt text](/1.png?raw=true width="350")
+![Alt text](/2.png?raw=true width="350")
